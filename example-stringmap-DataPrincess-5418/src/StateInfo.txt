@@ -1,0 +1,100 @@
+AK
+Alaska
+OK
+Oklahoma
+AL
+Alabama
+NC
+North Carolina
+CA 
+California
+CN 
+Connecticut
+NY 
+New York
+GA 
+Georgia
+WY 
+Wyoming
+MT 
+Montana
+OR 
+Oregon
+MA 
+Massachusetts
+ME 
+Maine
+HI 
+Hawaii
+RI 
+Rhode Island
+WA 
+Washington
+IA 
+Iowa
+FL 
+Florida
+UT 
+Utah
+CO 
+Colorado
+ID 
+Idaho
+NM 
+New Mexico
+TX 
+Texas
+KS 
+Kansas
+AZ 
+Arizona
+MN 
+Minnesota
+VE 
+Vermont
+LA 
+Louisiana
+TN 
+Tennessee
+PE 
+Pennsylvania
+AR 
+Arkansas
+NJ 
+New Jersey
+OH 
+Ohio
+IL 
+Illinois
+IN 
+Indiana
+NV 
+Nevada
+SC 
+South Carolina
+SD 
+South Dakota
+ND 
+North Dakota
+KY 
+Kentucky
+VA 
+Virginia
+NE 
+Nebraska
+MO 
+Missouri
+WI 
+Wisconsin
+MD 
+Maryland
+DE 
+Delaware
+NH 
+New Hampshire
+MI 
+Michigan
+MS 
+Mississippi
+MA 
+Maine
